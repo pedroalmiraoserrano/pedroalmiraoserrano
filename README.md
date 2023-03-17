@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Pedro Almirão Serrano</h1>
-<h3 align="center">Sou um estudante de Engenharia de Software, e estou ávido para aprender o maximo que puder!</h3>
+<h3 align="center">Sou estudante de Engenharia de Software, e estou ávido para aprender o maximo que puder!</h3>
 
 - 🏫 Estou cursando o primeiro ano de Engenharia de Software, pela [Unifil](https://unifil.br/)
 

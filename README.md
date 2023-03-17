@@ -3,11 +3,11 @@
 
 - 🏫 Estou cursando o primeiro ano de Engenharia de Software, pela [Unifil](https://unifil.br/)
 
-- ✏️ Áreas de interesse: **Linguagens de programação, Banco de Dados, Frameworks, e Tecnologia de Nuvem**
-
 - 📚 Estou Realizando o curso CS50 oferecido por [Harvard](https://cs50.harvard.edu/x/2023/)
 
 - 📒 Último ano do curso de língua inglesa da escola de idiomas [Wizard](https://www.wizard.com.br/)
+
+- ✏️ Áreas de interesse: **Linguagens de programação, Banco de Dados, Frameworks, e Tecnologia de Nuvem**
 
 - 📬 Fale comigo: **pedroalmserrano@gmail.com**
 

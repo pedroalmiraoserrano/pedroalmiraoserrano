@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, seja bem-vindo, me chamo Pedro Almirão Serrano</h1>
-<h3 align="center">Sou um estudante de Engenharia de Software, estou ávido para aprender o máximo possível e me tornar um profissional capaz de atuar em qualquer área requisitada</h3>
+<h1 align="center">Olá 👋, me chamo Pedro Almirão Serrano</h1>
+<h3 align="center">Sou um estudante de Engenharia de Software, e estou ávido para aprender o maximo que puder!</h3>
 
 - 🏫 Estou cursando o primeiro ano de Engenharia de Software, pela [Unifil](https://unifil.br/)
 
@@ -19,5 +19,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroalmiraoserrano&show_icons=true&locale=en&layout=compact" alt="pedroalmiraoserrano" /></p>

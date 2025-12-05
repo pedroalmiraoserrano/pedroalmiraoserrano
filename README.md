@@ -1,19 +1,37 @@
-<h1 align="center">Olá 👋, me chamo Pedro Almirão Serrano</h1>
-<h3 align="center">Sou estudante de Engenharia de Software, e estou ávido para aprender o maximo que puder!</h3>
+# **Pedro Almirão**
 
-- 🏫 Estou cursando o primeiro ano de Engenharia de Software, pela [Unifil](https://unifil.br/)
+Estudante de Engenharia de Software e profissional de Service Desk, com experiência em atendimento técnico, suporte ao usuário e gestão de incidentes. Possuo base sólida no **.NET Framework** e estou expandindo meus conhecimentos em **Python** e outras tecnologias relacionadas ao desenvolvimento de software.
 
-- 📒 Último ano do curso de língua inglesa da escola de idiomas [Wizard](https://www.wizard.com.br/)
+Comprometo-me com aprendizado contínuo, boas práticas e evolução de soft skills, buscando sempre entregar soluções eficientes e de qualidade.
 
-- ✏️ Áreas de interesse: **Linguagens de programação, Banco de Dados, Frameworks, e Tecnologia de Nuvem**
+---
 
-- 📬 Fale comigo: **pedroalmserrano@gmail.com**
+## **Experiência Profissional**
+### **Service Desk – Tata Consultancy Services**  
+*Outubro de 2025 – Presente | Londrina, PR*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedro almirão" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro almirão" height="30" width="40" /></a>
-<a href="https://discord.gg/Fazergast#4981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fazergast#4981" height="30" width="40" /></a>
-</p>
+### **Service Desk – Atos**  
+*Janeiro de 2024 – Outubro de 2025 | Londrina, PR*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+---
+
+## **Formação Acadêmica**
+- **Engenharia de Software — UniFil**  
+- **CS50 — Computer Science**  
+- **Academia .NET — Universidade Franciscana**  
+- **Certificação de Proficiência em Inglês — Wizard**  
+- **Fundamentos de TI (Hardware e Software) — Fundação Bradesco**
+
+---
+
+## **Competências**
+- .NET Framework  
+- Suporte técnico e gestão de incidentes  
+- Atendimento ao cliente  
+- Inglês fluente  
+
+---
+
+## **Contato**
+- **Email:** pedroalmserrano@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/pedro-almirão-a85816201  
